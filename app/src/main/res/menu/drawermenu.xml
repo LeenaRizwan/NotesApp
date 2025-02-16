@@ -5,14 +5,14 @@
 
     <item
         android:id="@+id/ColourPink"
-        android:title="Pink" />
+        android:title="DrawerView Practice" />
 
     <item
         android:id="@+id/ColourBlue"
-        android:title="Blue" />
+        android:title="DrawerView Practice" />
 
     <item
         android:id="@+id/nav_logout"
-        android:title="Logout" />
+        android:title="DrawerView Practice" />
 
 </menu>
