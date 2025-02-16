@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+Note<?xml version="1.0" encoding="utf-8"?>
 <layout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -19,7 +19,7 @@
             android:layout_marginTop="16dp"
             android:fontFamily="casual"
             android:textStyle="bold"
-            android:text="Add Note."
+            android:text="Edit Note"
             android:textColor="@color/Title_Color"
             android:textSize="24sp" />
 
