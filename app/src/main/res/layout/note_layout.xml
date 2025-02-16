@@ -19,7 +19,7 @@
                 android:layout_height="0dp"
                 android:id="@+id/noteTitle"
                 android:layout_weight="200"
-                android:textColor="@color/Title_Color"
+                android:textColor="@color/DM_Title"
                 android:fontFamily="casual"
                 android:textStyle="bold"
                 android:text="Note Title"
